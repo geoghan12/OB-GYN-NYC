@@ -1,0 +1,21 @@
+# Don't track these files:
+*.csv
+*.pdf
+*.png
+
+presentation/
+just in case but useless/
+
+.ipynb_checkpoints
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
